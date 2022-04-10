@@ -1,0 +1,11 @@
+{
+  "name": "rocket-pool",
+  "version": "1.0.0",
+  "main": "calculate.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "ethers": "^5.6.2",
+    "node-fetch": "^3.2.3"
+  }
+}
